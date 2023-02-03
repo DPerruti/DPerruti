@@ -1,7 +1,5 @@
 ### Olá, sou o Diogo Perruti !
 
-- 🌱 Estudando React
-
 <div align="center">
   <a href="https://github.com/DPerruti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DPerruti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
