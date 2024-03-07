@@ -1,4 +1,4 @@
-### Olá, sou o Diogo Perruti !
+### Hello, I'm Diogo Perruti !
 
 <div align="center">
   <a href="https://github.com/DPerruti">
